@@ -12,5 +12,5 @@ Real-time analysis of muscle activity for movement recognition with machine lear
 
 
 # Performance analysis
-![alt text](https://github.com/paxing/EMG_classification/blob/master/figures/figure_learning.pngraw=true)
+![alt text](https://github.com/paxing/EMG_classification/blob/master/figures/figure_learning.png?raw=true)
 
